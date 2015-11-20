@@ -102,15 +102,14 @@ def prims(G, r, w):
     return newV
 
 def fib_heap_prims(G, r, w):
-    V = list(G.vertices)
+    Q = list(G.vertices)
     newV = []
     
-    for v in V:
+    for v in Q:
         setkey(v, maxsize)
         setpred(v, None)
 
-    setkey(V[r], 0)
-    Q = list(V)
+    setkey(Q[r], 0)
 
     H = make_fib_heap()
     for node in Q:
