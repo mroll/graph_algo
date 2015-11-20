@@ -1,0 +1,168 @@
+Seattle, Billings
+Seattle, Portland
+Seattle, Boise
+Portland, Seattle
+Portland, Boise
+Portland, San Francisco
+Boise, Seattle
+Boise, Portland
+Boise, Billings
+Boise, Cheyenne
+Boise, Salt Lake City
+Billings, Seattle
+Billings, Cheyenne
+Billings, Fargo
+Billings, Minneapolis
+Billings, Boise
+Cheyenne, Billings
+Cheyenne, Boise
+Cheyenne, Omaha
+Cheyenne, Minneapolis
+Omaha, Minneapolis
+Omaha, Cheyenne
+Omaha, Kansas City
+Omaha, Chicago
+Denver, Kansas City
+Denver, Salt Lake City
+Denver, Santa Fe
+San Francisco, Portland
+San Francisco, Las Vegas
+San Francisco, Los Angeles
+San Francisco, Salt Lake City
+San Francisco, Boise
+Los Angeles, San Francisco
+Los Angeles, San Diego
+Los Angeles, Las Vegas
+San Diego, Los Angeles
+San Diego, Las Vegas
+San Diego, Phoenix
+Phoenix, San Diego
+Phoenix, Santa Fe
+Phoenix, Las Vegas
+Las Vegas, San Francisco
+Las Vegas, Los Angeles
+Las Vegas, San Diego
+Las Vegas, Phoenix
+Las Vegas, Santa Fe
+Las Vegas, Salt Lake City
+Salt Lake City, San Francisco
+Salt Lake City, Las Vegas
+Salt Lake City, Santa Fe
+Salt Lake City, Denver
+Salt Lake City, Boise
+Santa Fe, Denver
+Santa Fe, Salt Lake City
+Santa Fe, Las Vegas
+Santa Fe, Phoenix
+Santa Fe, Kansas City
+Santa Fe, Oklahoma City
+Santa Fe, Dallas
+Santa Fe, Houston
+Boston, New York
+New York, Boston
+New York, Buffalo
+Buffalo, New York
+Buffalo, Pittsburgh
+Buffalo, Detroit
+Detroit, Duluth
+Detroit, Chicago
+Detroit, Cincinnati
+Detroit, Pittsburgh
+Detroit, Buffalo
+Pittsburgh, Buffalo
+Pittsburgh, Detroit
+Pittsburgh, Cincinnati
+Pittsburgh, Raleigh
+Pittsburgh, Washington D.C.
+Washington D.C., Philadelphia
+Washington D.C., Pittsburgh
+Washington D.C., Norfolk
+Philadelphia, Washington D.C.
+Philadelphia, New York
+New York, Philadelphia
+Norfolk, Washington D.C.
+Norfolk, Raleigh
+Raleigh, Norfolk
+Raleigh, Pittsburgh
+Raleigh, Cincinnati
+Raleigh, Atlanta
+Raleigh, Savannah
+Savannah, Raleigh
+Savannah, Jacksonville
+Savannah, Atlanta
+Jacksonville, Savannah
+Jacksonville, Birmingham
+Jacksonville, New Orleans
+Jacksonville, Tampa
+Tampa, Jacksonville
+Tampa, Miami
+Miami, Tampa
+Atlanta, Knoxville
+Atlanta, Raleigh
+Atlanta, Savannah
+Atlanta, Birmingham
+Fargo, Billings
+Fargo, Minneapolis
+Fargo, Duluth
+Duluth, Fargo
+Duluth, Minneapolis
+Duluth, Detroit
+Duluth, Chicago
+Minneapolis, Duluth
+Minneapolis, Fargo
+Minneapolis, Billings
+Minneapolis, Cheyenne
+Minneapolis, Omaha
+Minneapolis, Chicago
+Chicago, Detroit
+Chicago, Duluth
+Chicago, Minneapolis
+Chicago, Omaha
+Chicago, Kansas City
+Chicago, St. Louis
+Chicago, Cincinnati
+St. Louis, Chicago
+St. Louis, Kansas City
+St. Louis, Memphis
+St. Louis, Atlanta
+St. Louis, Cincinnati
+Knoxville, Atlanta
+Knoxville, Cincinnati
+Cincinnati, Pittsburgh
+Cincinnati, Detroit
+Cincinnati, Chicago
+Cincinnati, St. Louis
+Cincinnati, Knoxville
+Cincinnati, Raleigh
+Kansas City, St. Louis
+Kansas City, Omaha
+Kansas City, Denver
+Kansas City, Santa Fe
+Kansas City, Oklahoma City
+Kansas City, Memphis
+Oklahoma City, Kansas City
+Oklahoma City, Santa Fe
+Oklahoma City, Dallas
+Oklahoma City, Memphis
+Dallas, Oklahoma City
+Dallas, Santa Fe
+Dallas, Houston
+Dallas, New Orleans
+Dallas, Memphis
+Memphis, St. Louis
+Memphis, Kansas City
+Memphis, Oklahoma City
+Memphis, Dallas
+Memphis, New Orleans
+Memphis, Birmingham
+Birmingham, Atlanta
+Birmingham, Memphis
+Birmingham, New Orleans
+Birmingham, Jacksonville
+Houston, Dallas
+Houston, Santa Fe
+Houston, New Orleans
+New Orleans, Houston
+New Orleans, Memphis
+New Orleans, Birmingham
+New Orleans, Jacksonville

@@ -1,0 +1,42 @@
+Seattle, 47,36,35,N,122,19,59,W
+Portland, 45,31,12,N,122,40,55,W
+Boise, 43,37,00,N,116,12,00,W
+Billings, 45,47,12,N,108,32,14,W
+Cheyenne, 41,8,44,N,104,48,7,W
+Omaha, 41,15,00,N,96,00,00,W
+Denver, 39,45,43,N,104,52,52,W
+San Francisco, 37,47,00,N,122,25,00,W
+Los Angeles, 34,03,00,N,118,15,00,W
+San Diego, 32,42,54,N,117,09,45,W
+Phoenix, 33,27,00,N,112,04,00,W
+Las Vegas, 36,10,30,N,115,08,11,W
+Salt Lake City, 40,45,0,N,111,53,0,W
+Santa Fe, 35,40,2,N, 105,57,52,W
+Boston, 42,21,29,N,71,03,49,W
+New York, 40,42,46,N,74,00,21,W
+Buffalo, 42,54,17,N,78,50,58,W
+Detroit, 42,19,53,N,83,02,45,W
+Pittsburgh, 40,26,23,N,79,58,35,W
+Washington D.C., 38,54,17,N,77,00,59,W
+Philadelphia, 39,57,00,N,75,10,00,W
+Norfolk, 36,55,00,N,76,12,00,W
+Raleigh, 35,46,50,N,78,38,20,W
+Savannah, 32,1,00,N,81,07,00,W
+Jacksonville, 30,20,13,N,81,39,41,W
+Tampa, 27,58,05,N,82,28,35,W
+Miami, 25,46,31,N,80,12,31,W
+Atlanta, 33,45,18,N,84,23,24,W
+Fargo, 46,52,38,N,96,47,22,W
+Duluth, 46,47,12,N,92,5,53,W
+Minneapolis, 44,59,00,N,93,16,00,W
+Chicago, 41,50,13,N,87,41,05,W
+St. Louis, 38,37,38,N,90,11,52,W
+Knoxville, 35,58,22,N,83,56,32,W
+Cincinnati, 39,6,00,N,84,31,00,W
+Kansas City, 39,06,00,N,94,35,00,W
+Oklahoma City, 35,28,56,N,97,32,06,W
+Dallas, 32,46,33,N,96,47,48,W
+Memphis, 35,07,03,N,89,58,16,W
+Birmingham, 33,39,12,N,86,48,32,W
+Houston, 29,45,46,N,95,22,59,W
+New Orleans, 29,57,00,N,90,4,00,W
