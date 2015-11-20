@@ -124,7 +124,6 @@ def dll_collect(x):
     return sibs
 
 def consolidate(H):
-    max_degree = D(H.n)
     A = [None] * H.n
     
     for x in dll_collect(H.min):
@@ -141,16 +140,16 @@ def consolidate(H):
     H.min = None
 
     for x in A:
-        if x != None:
+        if x:
             x.left = x
             x.right = x
             x.parent = None
-            if H.min == None:
-                H.min = x
-            else:
+            if H.min:
                 dll_add(x, H.min)
                 if x.key < H.min.key:
                     H.min = x
+            else:
+                H.min = x
 
 def dll_remove(x):
     x.left.right = x.right
